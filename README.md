@@ -1,12 +1,16 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Todo List con React.js
 
-¡Hola, Platzinauta!
+¡Todo es una aplicación web desarrollada como parte de un curso de Platzi para aprender los conceptos básicos de React utilizando Create React App. Todo es una aplicación simple de lista de tareas que te permite agregar, completar y eliminar tareas.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+Todo está alojado en GitHub Pages y se puede acceder a él a través de la siguiente URL: https://rdrachir.github.io/Todo/.
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+## Caracteristicas
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+- Agregar tareas: Puedes agregar nuevas tareas a tu lista proporcionando el nombre de la tarea.
+- Eliminar tareas: Puedes eliminar tareas de tu lista cuando ya no sean necesarias.
+- Marcar tareas como completadas: Puedes marcar las tareas como completadas una vez que las hayas terminado.
+
+En este repositorio encontrarás el código de la aplicación. Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
 ## Getting Started with Create React App
 
